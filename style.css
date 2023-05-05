@@ -1,0 +1,48 @@
+* {
+    background-color: darkgreen;
+    color: white;
+    font-family: 'Courier New', "Times New Roman", monospace;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+#list li {
+    text-align: center;
+    font-size: 32px;
+    color: transparent;
+}
+
+.link {
+    background-color: purple;
+}
+
+#home-link {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#hl-container {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+
+#img-container {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: purple;
+}
